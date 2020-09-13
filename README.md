@@ -1,4 +1,4 @@
-# Machine Learning & Astrophysics Hack Days
+# Machine Learning & Astrophysics Hack Days 2020/2021
 
 Machine Learning & Astrophysics Hack Days is a series of 4 seminars organised at PhD level to explore machine learning techniques that are often used in astrophysics during the winter semester 2020 at the [ETH Zürich](https://ethz.ch/de.html).
 
