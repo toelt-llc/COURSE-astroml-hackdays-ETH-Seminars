@@ -8,14 +8,14 @@ The official website for the seminars can be found here: https://astroml-hackday
 
 The seminars will be completely online, due to the COVID-19 pandemic. They will recorded live from the ETH and streamed live. A recording of the lectures will be available later on this website for everyone to enjoy.
 
-Information on live streaming and videos will be posted on this website as soon as available.
+**Information on live streaming and videos will be posted on this website as soon as available.**
 
 # Material for the Seminars
 
 ## 0 - Fundamentals
 
 [In this folder](https://github.com/toelt-llc/astroml-hackdays/tree/master/Fundamentals) you will find additional material that will help you in getting enough
-information on the fundamentals required to understand neural networks and TensorFlow Keras.
+information on the fundamentals required to understand neural networks and [TensorFlow Keras](https://www.tensorflow.org).
 
 ## 1 - (Variational) Autoencoders (13th Nov. 2020)
 
