@@ -17,6 +17,11 @@ Information on live streaming and videos will be posted on this website as soon 
 
 ## Seminars
 
+### Fundamentals
+
+[In this folder](https://github.com/toelt-llc/astroml-hackdays/tree/master/Fundamentals) you will find additional material that will help you in getting enough
+information on the fundamentals required to understand neural networks and TensorFlow Keras.
+
 ### 1 - (Variational) Autoencoders (13th Nov. 2020)
 
 The material for the first seminar can be found [HERE](https://github.com/toelt-llc/astroml-hackdays/tree/master/1%20-%20Autoencoders). There you will find the slides and the Jupyter notebook for the hands-on sessions.
