@@ -8,3 +8,10 @@ You can find an introduction to Neural Networks in the slides for a lecture give
 accessible online easily.
 
 [Lecture on Neural Network](https://docs.google.com/presentation/d/1QxcVIZsRENhjwjknIt5968ZLrsiaiEZyOG_qMiliyGI/edit?usp=sharing)
+
+## Examples
+
+If you know a bit of Python you can get your hands dirty with a very basic examples of image classification and Keras with this Jupyter notebook (it will open
+itself in Google Colab, so no need to download or install anything)
+
+[First Easy Image Classification with Keras](https://colab.research.google.com/drive/1Y-JRhDt199QkMWPVtYhIy2YHI3k90a53?usp=sharing)
