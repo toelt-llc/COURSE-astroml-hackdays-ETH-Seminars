@@ -15,6 +15,24 @@ The seminars will be completely online, due to the COVID-19 pandemic. They will 
 
 Information on live streaming and videos will be posted on this website as soon as available.
 
+## Seminars
+
+### 1 - (Variational) Autoencoders (13th Nov. 2020)
+
+The material for the first seminar can be found [HERE](https://github.com/toelt-llc/astroml-hackdays/tree/master/1%20-%20Autoencoders). There you will find the slides and the Jupyter notebook for the hands-on sessions.
+
+### 2 - Classification of observation (11th Dic. 2020)
+
+Content will come soon...
+
+### 3 - De-noising of images (15th Jan. 2021)
+
+Content will come soon...
+
+### 4 - Enhancing IMages (26th Feb. 2021)
+
+Content will come soon...
+
 ## Contact
 
 In case you have questions please don’t hesitate to contact umberto.michelucci@toelt.ai  or dangerhau@phys.ethz.ch at any time.
