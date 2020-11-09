@@ -5,7 +5,7 @@ Machine Learning & Astrophysics Hack Days is a series of 4 seminars organised at
 ## Organisers
 
 The seminars have been organised and supported by [Prof. Dr. Sascha Quanz](https://astroml-hackdays.org/organisators), Associate Professor at ETH Zurich, Department of Physics, Exoplanets and Habitability.
-Logistics and lectures will be organised and given by [Dr. Daniel Angerhausen](https://astroml-hackdays.org/organisators) and [Umberto Michelucci](https://astroml-hackdays.org/organisators).
+Logistics and lectures will be organised and given by [Dr. Daniel Angerhausen](https://astroml-hackdays.org/organisators) and [Umberto Michelucci](https://astroml-hackdays.org/organisators). [Michela Sperti](https://astroml-hackdays.org/organisators) will join the team as teaching assistant.
 
 ## Official website and links
 
