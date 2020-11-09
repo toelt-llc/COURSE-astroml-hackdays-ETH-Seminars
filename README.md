@@ -15,7 +15,7 @@ The seminars will be completely online, due to the COVID-19 pandemic. They will 
 
 Information on live streaming and videos will be posted on this website as soon as available.
 
-## Seminars
+## Material for the Seminars
 
 ### 0 - Fundamentals
 
