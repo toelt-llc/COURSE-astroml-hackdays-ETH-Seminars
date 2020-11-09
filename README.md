@@ -17,7 +17,7 @@ Information on live streaming and videos will be posted on this website as soon 
 
 ## Seminars
 
-### Fundamentals
+### 0 - Fundamentals
 
 [In this folder](https://github.com/toelt-llc/astroml-hackdays/tree/master/Fundamentals) you will find additional material that will help you in getting enough
 information on the fundamentals required to understand neural networks and TensorFlow Keras.
