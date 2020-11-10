@@ -2,6 +2,10 @@
 
 In this folder you will find material and lectures that can help you while learning how neural networks works (theoretically and practically).
 
+## Tools
+
+In the file [Introduction_to_Jupyter_Colab_GitHub.pdf](https://github.com/toelt-llc/astroml-hackdays/blob/master/Fundamentals/Introduction_to_Jupyter_Colab_GitHub.pdf) that you can find in this folder, you can find a ver good introduction to Google Colab and what are Jupyter notebook by Michela Sperti.
+
 ## Neural Networks
 
 - You can find an introduction to Neural Networks in the slides for a lecture given by Umberto Michelucci at the ETH. They are google slides and should be 
