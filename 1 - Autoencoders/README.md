@@ -2,7 +2,9 @@
 
 In this folder you can find various material for the hands-on sessions for the first seminar.
 
-## Table of Contents
+## Seminar Agenda
+
+Note that **links to the recorded videos** will also be posted here as soon as they are available.
 
 - Theory on autoencoders and variational autoencoders (introduction) - 1 hour
 - Introduction to Google Colab and Jupyter notebooks - 10 minutes
