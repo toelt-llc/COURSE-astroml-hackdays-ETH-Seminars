@@ -19,4 +19,6 @@ Note that **links to the recorded videos** will also be posted here as soon as t
 
 - [Your first Autoencoder](http://colab.research.google.com/github/toelt-llc/astroml-hackdays/blob/master/1%20-%20Autoencoders/code/Your%20first%20autoencoder%20with%20Keras.ipynb)
 
+- [Your first Variational Autoencoder](http://colab.research.google.com/github/toelt-llc/astroml-hackdays/blob/master/1%20-%20Autoencoders/code/Variational%20Autoencoders.ipynb)
+
 
