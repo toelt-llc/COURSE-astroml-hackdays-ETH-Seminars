@@ -21,7 +21,7 @@ information on the fundamentals required to understand neural networks and [Tens
 
 The material for the first seminar can be found [HERE](https://github.com/toelt-llc/astroml-hackdays/tree/master/1%20-%20Autoencoders). There you will find the slides and the Jupyter notebooks for the hands-on sessions.
 
-## 2 - Classification of observation (11th Dic. 2020)
+## 2 - Classification of observations (11th Dic. 2020)
 
 Content will come soon...
 
