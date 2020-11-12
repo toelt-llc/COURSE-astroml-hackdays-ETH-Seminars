@@ -9,7 +9,9 @@ Note that **links to the recorded videos** will also be posted here as soon as t
 - Theory on autoencoders and variational autoencoders (introduction) - 1 hour
 
   [Google slides lecture on autoencoders](https://docs.google.com/presentation/d/1hG_zS7kY0uyZ_mYN3mLfQSLdVOqij8oUhaG9p8DcHSc/edit?usp=sharing)
-- Introduction to Google Colab and Jupyter notebooks - 10 minutes
+  
+  [Google slides lecture on Variational Autoencoders](https://docs.google.com/presentation/d/1RXzhDy3TTN8qZ2coLPn1HSab1-aSBMFdWHLiSP6WNr8/edit?usp=sharing)
+- [Introduction to Google Colab and Jupyter notebooks](https://github.com/toelt-llc/astroml-hackdays/blob/master/Fundamentals/Introduction_to_Jupyter_Colab_GitHub.pdf) - 10 minutes
 - Introduction to Keras - 10 minutes
 - Hands-on sessions with examples - 40 minutes
 - Invited Talk - 1 hour
