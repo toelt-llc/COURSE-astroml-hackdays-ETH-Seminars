@@ -4,7 +4,7 @@ In this folder you will find material and lectures that can help you while learn
 
 ## Tools
 
-In the file [Introduction_to_Jupyter_Colab_GitHub.pdf](https://github.com/toelt-llc/astroml-hackdays/blob/master/Fundamentals/Introduction_to_Jupyter_Colab_GitHub.pdf) that you can find in this folder, you can find a ver good introduction to Google Colab and what are Jupyter notebook by Michela Sperti.
+In the file [Introduction_to_Jupyter_Colab_GitHub.pdf](https://github.com/toelt-llc/astroml-hackdays/blob/master/Fundamentals/Introduction_to_Jupyter_Colab_GitHub.pdf) that you can find in this folder, you can find a very good introduction to Google Colab and what are Jupyter notebooks by Michela Sperti.
 
 ## Neural Networks
 
