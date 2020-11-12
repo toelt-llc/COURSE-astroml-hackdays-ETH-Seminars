@@ -19,7 +19,7 @@ information on the fundamentals required to understand neural networks and [Tens
 
 ## 1 - (Variational) Autoencoders (13th Nov. 2020)
 
-The material for the first seminar can be found [HERE](https://github.com/toelt-llc/astroml-hackdays/tree/master/1%20-%20Autoencoders). There you will find the slides and the Jupyter notebook for the hands-on sessions.
+The material for the first seminar can be found [HERE](https://github.com/toelt-llc/astroml-hackdays/tree/master/1%20-%20Autoencoders). There you will find the slides and the Jupyter notebooks for the hands-on sessions.
 
 ## 2 - Classification of observation (11th Dic. 2020)
 
