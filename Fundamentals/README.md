@@ -17,12 +17,19 @@ accessible online easily.
 
   [Deep Learning Course Material - 2019 - ZHAW - GitHub Repository](https://github.com/toelt-llc/zhaw-dlcourse-spring2019)
   
+## Tensorflow 2.0 GitHub Repository  
+
 - A Github repository (by Umberto Michelucci) on how to approach TensorFlow 2.X. Here you can find how to study it, various examples and code that you can study and
 try yourself.
 
   [Notes on TensorFlow 2.0 - GitHub Repository](https://github.com/toelt-llc/TensorFlow20-Notes)
   
-  
+## Kera Introducton
+
+- In this presentation you can find the most important features of keras, the library now part of TensorFlow to build, develop and train neural networks. This is the library that we have used in all the examples.
+
+  [Quick Introduction to Keras](https://docs.google.com/presentation/d/1TEYgiQHlPQl6mqUEMb5BKCt613R8HfwPax4G-AyLfdY/edit?usp=sharing)
+
 
 ## Examples
 
