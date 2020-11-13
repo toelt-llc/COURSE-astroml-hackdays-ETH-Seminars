@@ -17,6 +17,8 @@ The seminars will be completely online, due to the COVID-19 pandemic. They will 
 [In this folder](https://github.com/toelt-llc/astroml-hackdays/tree/master/Fundamentals) you will find additional material that will help you in getting enough
 information on the fundamentals required to understand neural networks and [TensorFlow Keras](https://www.tensorflow.org).
 
+Additionally the 2nd edition of the book by Umberto Michelucci and Michela Sperti (Applied Deep Learning) planned for the end of 2021 have an online companion that will grow with time at [https://adl.toelt.ai](https://adl.toelt.ai).
+
 ## 1 - (Variational) Autoencoders (13th Nov. 2020)
 
 The material for the first seminar can be found [HERE](https://github.com/toelt-llc/astroml-hackdays/tree/master/1%20-%20Autoencoders). There you will find the slides and the Jupyter notebooks for the hands-on sessions.
