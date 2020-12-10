@@ -11,3 +11,4 @@ You can find the few slides on the topic of denoising autoencoders here
 You can find the hands-on notebook here
 
 [Denoising Autoencoders]()
+
