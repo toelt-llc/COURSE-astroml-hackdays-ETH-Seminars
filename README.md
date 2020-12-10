@@ -25,7 +25,7 @@ The material for the first seminar can be found [HERE](https://github.com/toelt-
 
 ## 2 - Classification of observations (11th Dic. 2020)
 
-Content will come soon...
+The material for denoising autoencoders can be found [HERE](https://github.com/toelt-llc/astroml-hackdays/tree/master/2%20-%20Denoising%20Autoencoders). There you will find the slides and the Jupyter notebooks for the hands-on sessions.
 
 ## 3 - De-noising of images (15th Jan. 2021)
 
