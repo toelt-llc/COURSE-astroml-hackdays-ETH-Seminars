@@ -10,5 +10,6 @@ You can find the few slides on the topic of denoising autoencoders here
 
 You can find the hands-on notebook here
 
-[Denoising Autoencoders]()
+[Denoising Autoencoders with FFNN](http://colab.research.google.com/github/toelt-llc/astroml-hackdays/blob/master/2%20-%20Denoising%20Autoencoders/code/Denoising%20Autoencoders%20with%20FFNN.ipynb)
 
+[Denoising Autoencoders with CNNs](http://colab.research.google.com/github/toelt-llc/astroml-hackdays/blob/master/2%20-%20Denoising%20Autoencoders/code/Denoising%20Autoencoders%20with%20CNN.ipynb)
