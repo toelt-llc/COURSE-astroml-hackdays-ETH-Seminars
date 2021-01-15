@@ -12,8 +12,6 @@ You can find the slides on the topic of classification here
 
 Some additional notebooks that you may find useful.
 
-Using TensorFlow Hub and a pre-trained network:
-
-[Using a pre-trained network](http://colab.research.google.com/github/oreilly-london-ai/blob/master/day1/Using%20pre-trained%20networks/Image_classification_with_TFHub.ipynb)
+[Using a pre-trained network in TensorFlow Hub](http://colab.research.google.com/github/oreilly-london-ai/blob/master/day1/Using%20pre-trained%20networks/Image_classification_with_TFHub.ipynb)
 
 [Transfer Learning with Keras](http://colab.research.google.com/github/oreilly-london-ai/blob/master/day2/Transfer%20Learning/Dogs_and_cats_Transfer_learning_with_keras.ipynb)
