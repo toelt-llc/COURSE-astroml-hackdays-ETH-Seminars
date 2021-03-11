@@ -6,6 +6,10 @@ You can find the slides on the topic of classification here
 
 [Advanced Neural Network Slides](https://docs.google.com/presentation/d/1nJAFDl79CX6sqMBEoDVB3POsmtB5co5uoBUaQklmi6I/edit?usp=sharing)
 
+Note that to download the powerpoint you need to clone the entire repository or click on the following link and then click on the "download" button at the top of the file window on the right of the page.
+
+[Powerpoint Super Resolution Basics](https://github.com/toelt-llc/astroml-hackdays/blob/master/4%20-%20Image%20Enhancing/super%20resolution%20using%20deep%20learning.pptx)
+
 ## Hands-on Jupyter notebooks
 
 Note that some notebooks are hosted on different repositories.
@@ -22,7 +26,9 @@ Neural style transfer is not, stricly speaking, an image enhancing method, but i
 
 [Neural Style Transfer](http://colab.research.google.com/github/toelt-llc/astroml-hackdays/blob/master/4%20-%20Image%20Enhancing/code/Neural%20style%20transfer%20with%20Keras.ipynb)
 
+# Useful links
 
+[Super Resolution Respository](https://idealo.github.io/image-super-resolution/)
 
 
 
