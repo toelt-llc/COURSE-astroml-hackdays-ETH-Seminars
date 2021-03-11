@@ -33,7 +33,7 @@ The material for classification can be found [HERE](https://github.com/toelt-llc
 
 ## 4 - Enhancing Images (26th Feb. 2021)
 
-The material for classification can be found [HERE](https://github.com/toelt-llc/astroml-hackdays/tree/master/3%20-%20Classification). There you will find the slides and the Jupyter notebooks for the hands-on sessions.
+The material for classification can be found [HERE](https://github.com/toelt-llc/astroml-hackdays/tree/master/4%20-%20Image%20Enhancing). There you will find the slides and the Jupyter notebooks for the hands-on sessions.
 
 
 # Organisers
