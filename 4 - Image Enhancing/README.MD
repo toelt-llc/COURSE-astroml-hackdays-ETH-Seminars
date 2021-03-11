@@ -8,13 +8,23 @@ You can find the slides on the topic of classification here
 
 ## Hands-on Jupyter notebooks
 
-[Classification first steps](http://colab.research.google.com/github/toelt-llc/astroml-hackdays/blob/master/3%20-%20Classification/code/Classification.ipynb)
+Note that some notebooks are hosted on different repositories.
 
-Some additional notebooks that you may find useful.
+[Transfer Learning with Keras](http://colab.research.google.com/github/toelt-llc/astroml-hackdays/blob/master/4%20-%20Image%20Enhancing/code/Example%20Transfer-learning-with-keras-with-files.ipynb)
+
+[Transfer Learning with Keras](http://colab.research.google.com/github/oreilly-london-ai/blob/master/day2/Transfer%20Learning/Dogs_and_cats_Transfer_learning_with_keras.ipynb)
 
 [Using a pre-trained network in TensorFlow Hub](http://colab.research.google.com/github/oreilly-london-ai/blob/master/day1/Using%20pre-trained%20networks/Image_classification_with_TFHub.ipynb)
 
-[Transfer Learning with Keras](http://colab.research.google.com/github/oreilly-london-ai/blob/master/day2/Transfer%20Learning/Dogs_and_cats_Transfer_learning_with_keras.ipynb)
+[Using pre-trained models with Keras applications](http://colab.research.google.com/github/toelt-llc/astroml-hackdays/blob/master/4%20-%20Image%20Enhancing/code/Pre-trained-models_with_keras_applications.ipynb)
+
+Neural style transfer is not, stricly speaking, an image enhancing method, but it shows very well how to use the specific loss functions (style for example) to extract and compare specific information about an image.
+
+[Neural Style Transfer](http://colab.research.google.com/github/toelt-llc/astroml-hackdays/blob/master/4%20-%20Image%20Enhancing/code/Neural%20style%20transfer%20with%20Keras.ipynb)
+
+
+
+
 
 
 
