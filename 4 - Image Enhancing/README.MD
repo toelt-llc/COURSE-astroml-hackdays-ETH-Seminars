@@ -1,5 +1,7 @@
 # Image Enhancing
 
+This material focus on the use of neural networks for doing image enhancing. But for an overview of classical image processing techniques you can check this [BLOG post](https://towardsdatascience.com/image-enhancement-techniques-using-opencv-and-python-9191d5c30d45), or any good book about image processing.
+
 ## Slides
 
 You can find the slides on the topic of classification here
